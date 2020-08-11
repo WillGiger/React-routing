@@ -2,6 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://WillGiger.github.io/React-routing",
   "devDependencies": {
     "react-scripts": "1.0.6"
   },
@@ -11,6 +12,8 @@
     "react-router-dom": "^5.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
