@@ -2,7 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://willgiger.github.io/class-dir/",
+  "homepage": "https://WillGiger.github.io/class-directory/",
   "devDependencies": {
     "react-scripts": "1.0.6"
   },
